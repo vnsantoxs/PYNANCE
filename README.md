@@ -6,4 +6,5 @@ Funcionalidades:
 - Visualizar o saldo atual de cada conta, o histórico de movimentações e o fluxo de caixa mensal.
 - Gerar relatórios personalizados por período, conta, categoria ou plano.
 - Acessar um dashboard com indicadores que mostram a sua situação financeira geral.
+
 ![Home](./Home.png)
